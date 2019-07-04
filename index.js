@@ -1,5 +1,5 @@
 console.log("start");
-function test(x) {
+function test2(x) {
   if (x === 3) {
     x = 0;
   }
