@@ -1,6 +1,6 @@
 console.log("start");
 function test2(x) {
-  if (x === 1) {
+  if (x === 2) {
     x = 0;
   }
   return x;
